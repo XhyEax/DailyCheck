@@ -1,8 +1,10 @@
 # DailyCheck Android APP
 
 ## 介绍
-一个每日签到的APP，可查看排行榜及历史签到记录
-采用Fragment + BottomNavigationView实现界面切换，并使用Retrofit + RxJava实现网络异步请求更新UI
+一个每日签到的APP，可查看排行榜及历史签到记录。
+
+## 实现
+采用Fragment + BottomNavigationView实现界面切换，使用Retrofit + RxJava进行网络异步请求并更新UI.
 
 ## 已实现功能
 注册、签到、查看排行榜、本地通过数据库存储签到记录、以图表形式查看统计数据
