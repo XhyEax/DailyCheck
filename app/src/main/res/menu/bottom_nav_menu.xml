@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_check"
+        android:title="签到" />
+
+    <item
+        android:id="@+id/navigation_rank"
+        android:icon="@drawable/ic_trophy"
+        android:title="排行榜" />
+
+    <item
+        android:id="@+id/navigation_stat"
+        android:icon="@drawable/ic_stat"
+        android:title="统计" />
+
+</menu>
